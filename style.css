@@ -21,7 +21,7 @@ button {
 .edit-btn {
     width: 100px;
     height: 20px;
-    background-color: deepskyblue;
+    background-color: rgb(4, 0, 255);
     border: none;
     color: white;
     cursor: pointer;
